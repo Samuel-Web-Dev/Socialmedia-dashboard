@@ -386,6 +386,7 @@ span.user{
   right: 8%;
   top: 1%;
   font-size: 2.5rem;
+  cursor: pointer;
 }
 
 #hamburger-menu {
